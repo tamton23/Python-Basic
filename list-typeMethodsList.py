@@ -9,5 +9,9 @@ print(l)
 # Sort list:
 sortL = ['cc','bb', 'aa']
 print(sortL)
+#grow up
 sortL.sort()
+print(sortL)
+#reduce up
+sortL.reverse()
 print(sortL)
