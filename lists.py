@@ -34,3 +34,6 @@ sort_list = sorted(my_list)
 reverse_list = list(reversed(my_list))
 print(sort_list)
 print(reverse_list)
+#or
+my_list.reverse()
+print(my_list)
